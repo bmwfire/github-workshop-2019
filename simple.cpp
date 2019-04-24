@@ -1,6 +1,6 @@
 /* 
 	File: simple.c
-	Created by Brandon Wong on 4/23/19
+edited.	Created by Brandon Wong on 4/23/19
 */
 
 
