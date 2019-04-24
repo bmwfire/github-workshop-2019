@@ -13,5 +13,6 @@ int main(int argc, char *argv[])
 
 	// Add changes anywhere below this line
 
+	std::cout << "I'm gone!" << std::endl;
 }
 
