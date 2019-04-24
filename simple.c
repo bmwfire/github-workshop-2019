@@ -3,6 +3,6 @@
 
 int main(int argc, char *argv[])
 {
-	int x = 0;
+	int x = 10;
 	printf("x = %d\n", x);
 }
