@@ -3,3 +3,4 @@
 
 
 print("Simple python script")
+print("Hello World!")
